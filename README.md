@@ -27,3 +27,10 @@ Open http://localhost:8000.
 Replace `index.html`, `questions.js`, `script.js`, `style.css`, and `README.md`. Keep the `assets/ecgs` directory in place.
 
 Educational use only. The site is not a substitute for clinical judgement.
+
+
+## v9 study-atlas expansion
+
+- Expanded ventricular rhythms, ischaemia/infarction, electrolytes/QT, chamber hypertrophy, bundle blocks and digoxin into multi-image atlases.
+- Added a first set of toggleable highlighted notes to study-guide ECG examples.
+- Highlight coordinates are image-specific and can be refined over time.
